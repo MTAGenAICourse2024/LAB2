@@ -1,0 +1,5 @@
+requests
+sdk
+openai
+scikit-learn
+faiss-cpu
