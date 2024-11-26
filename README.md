@@ -34,13 +34,13 @@ Before you begin, ensure you have met the following requirements:
 
 1. Place your text documents in a directory named `documents`. Each document should be a `.txt` file.
 
-2. Run the script:
+3. Run the script:
 
     ```bash
-    python script.py
+    python RAG_FAISS_nokey.py
     ```
 
-3. The script will read the documents, vectorize them using TF-IDF, build a FAISS index, and then use OpenAI's GPT-4 to generate responses to queries based on the retrieved documents.
+4. The script will read the documents, vectorize them using TF-IDF, build a FAISS index, and then use OpenAI's GPT-4 to generate responses to queries based on the retrieved documents.
 
 ## Code Explanation
 
